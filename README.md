@@ -28,3 +28,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Customize configuration
 * master
   remotes/origin/master
+
+
+  ### Lints and fixes files
+```
+dev
+```
